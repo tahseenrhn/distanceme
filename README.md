@@ -4,8 +4,6 @@ created by Tahseen Rahman
 
 https://github.com/tahseenrhn/distanceme
 
-(please let me know if link is unaccessible)
-
 <------------------------------------------------------------------------------------------------------------------->
 
 *Screenshots, Project Report and APK provided within documents folder
