@@ -1,4 +1,4 @@
-DistanceME
+DistanceMe
 
 created by Tahseen Rahman
 
