@@ -2,7 +2,7 @@ DistanceME
 
 created by Tahseen Rahman
 
-https://github.com/tahseenrhn/distanceme
+github.com/tahseenrhn/distanceme
 
 <------------------------------------------------------------------------------------------------------------------->
 
