@@ -2,8 +2,6 @@ DistanceMe
 
 created by Tahseen Rahman
 
-https://github.com/tahseenrhn/distanceme
-
 <------------------------------------------------------------------------------------------------------------------->
 
 *Screenshots, Project Report and APK provided within documents folder
