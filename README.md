@@ -2,6 +2,8 @@ DistanceMe
 
 created by Tahseen Rahman
 
+(API Key not included - replace in build.properties)
+
 <------------------------------------------------------------------------------------------------------------------->
 
 *Screenshots, Project Report and APK provided within documents folder
