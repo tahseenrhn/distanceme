@@ -2,7 +2,7 @@ DistanceMe
 
 created by Tahseen Rahman
 
-(API Key not included - replace in build.properties)
+(API Key not included - replace in gradle.properties)
 
 <------------------------------------------------------------------------------------------------------------------->
 
