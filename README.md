@@ -8,8 +8,6 @@ https://github.com/tahseenrhn/distanceme
 
 *Screenshots, Project Report and APK provided within documents folder
 
-*Additions to starter code are marked with "- TR"
-
 *Comments are provided in every new file created
 
 *New classes created are ActivityPopActivity, ClosePopActivity, & ScorePopActivity
